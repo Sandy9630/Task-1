@@ -1,0 +1,67 @@
+
+body{
+   text-align: center;
+   background-color: black;
+}
+ header{
+    text-align: right;
+    font-size: 30px;
+ }
+ h1{
+   color:red;
+}
+p{
+   color: white;
+}
+ div{
+    
+    background-color: rgb(54, 39, 125);
+
+}
+
+#container{
+   display: flex;
+   background-color: rgb(54, 39, 125);
+   align-content: center;
+   justify-content: center;
+}
+
+.A{
+   background-color:  rgb(54, 39, 125);
+   align-items: center;
+   margin: 20px;
+   width: 100%;
+   
+}
+
+
+#cont{
+   display: flex;
+   background-color: rgb(54, 39, 125);
+   align-content: center;
+   justify-content: center;
+}
+
+.B{
+   background-color:  rgb(54, 39, 125);
+   align-items: center;
+   margin: 20px;
+   width: 100%;
+   
+}
+
+
+#con{
+   display: flex;
+   background-color: rgb(54, 39, 125);
+   align-content: center;
+   justify-content: center;
+}
+
+.C{
+   background-color:  rgb(54, 39, 125);
+   align-items: center;
+   margin: 20px;
+   width: 100%;
+   
+}

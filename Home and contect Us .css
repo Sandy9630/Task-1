@@ -1,0 +1,32 @@
+ body{
+    text-align: center;
+    background-color: black;
+ }
+ header{
+    text-align: right;
+    font-size: 30px;
+    
+ }
+ 
+#div1{
+    border: 1px Solid black;
+    background-color:lightblue;
+}
+h1{
+    color:red;
+}
+p{
+    color: white;
+}
+h4{
+    text-align: center;
+    color:blue;
+}
+button{
+    background-color:rgb(105, 99, 216);
+}
+
+input:hover{
+
+    background-color: orange;
+}
